@@ -1,0 +1,19 @@
+Content-Encoding: gzip
+Set-Cookie: TAUnique=%1%enc%3An1jnycdNqiuEC1QK9TTHEbr3ppnPuLceTIbcvWURHjYiC9mUUqh3Gg%3D%3D; Domain=.tripadvisor.com; Path=/; Expires=Fri, 31 Jan 2020 20:06:11 GMT; HttpOnly
+Set-Cookie: BEPIN=%1%1614dd3a6bc%3Bbak200a.a.tripadvisor.com%3A10023%3B; Domain=.tripadvisor.com; Path=/
+Set-Cookie: TASession=V2ID.E546D7471EABAB636EC5AC9CCFC8FD9E*SQ.1*GR.23*TCPAR.70*TBR.70*EXEX.75*ABTR.85*PHTB.41*FS.16*CPU.7*HS.recommended*ES.popularity*AS.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*DF.0*TRA.true*LD.29218; Domain=.tripadvisor.com; Path=/
+Set-Cookie: ServerPool=C; Domain=.tripadvisor.com; Path=/
+Set-Cookie: TATravelInfo=V2*A.2*MG.-1*HP.2*FL.3*RS.1; Domain=.tripadvisor.com; Expires=Wed, 14-Feb-2018 20:06:11 GMT; Path=/
+Set-Cookie: TAReturnTo=%1%%2FHotels-g29218-Kauai_Hawaii-Hotels.html; Domain=.tripadvisor.com; Path=/
+Set-Cookie: TASSK=enc%3AAJqTOpUY2kWbDqVy4tl%2FVJ4zo6ioDKPc5f83lLM3XB%2BHC5i30h3HdfSPG0N1NxBAu07o5IxV31UQreyqNNGB4Gl4d8VeN79N8jS57eYUITy5kzeH4Bc7D5vqeOmaZpVh0Q%3D%3D; Domain=www.tripadvisor.com; Path=/; Expires=Mon, 30 Jul 2018 20:06:11 GMT; HttpOnly
+Set-Cookie: PAC=AG38PR6LJwrVFFmxE1Pf29GSTsCyfUGU8lNyofq5WO0hKEF3N6zyoY7o_RPoZ6fm9tmrvjtDGGWjYJpkA-l7HRugHJWYMcTh8-0dZGJ7nk6-3iwTaTidOhi0dmx278ylG_NWx2cLeDzVH_8PulATZ00iQCaoS4LUKsJpaUk_oUXR; Domain=www.tripadvisor.com; Path=/; Expires=Fri, 31 Jan 2020 20:06:11 GMT; Secure; HttpOnly
+Set-Cookie: PMC=V2*MS.42*MD.20180131*LD.20180131; Domain=www.tripadvisor.com; Path=/; Expires=Fri, 31 Jan 2020 20:06:11 GMT; Secure; HttpOnly
+Expires: 0
+Vary: User-Agent,Accept-Encoding
+Server: Apache
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Date: Wed, 31 Jan 2018 20:06:12 GMT
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT DSP COR CAO PSA IDC ADM DEVi TAIi PSD IVAi IVDi CONi HIS CNT"
+Content-Type: text/html;charset=UTF-8
+Timing-Allow-Origin: https://www.tripadvisor.com
